@@ -1,6 +1,5 @@
-# calculator
-
-A new Flutter project.
+# Flutter calculator
+This is a mobile calculator!
 
 ## Getting Started
 
