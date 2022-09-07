@@ -1,5 +1,3 @@
 # Flutter calculator
-This is a mobile calculator!
+![flutter_calculator_app](https://user-images.githubusercontent.com/92163203/188844178-c8f5d9a5-4f55-4a4d-82bc-07355e613275.gif)
 
-
-<img src="https://user-images.githubusercontent.com/92163203/188309303-5f910f9a-84c7-45f4-b447-2bf64aaf0c67.png" alt="calculator-screen" height="800"/>
